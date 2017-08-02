@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "no-console": "off"
+  },
+  "globals": {
+    "DEBUG": false,
+    "PRODUCTION": false,
+    "document": false,
+    "window": false
+  }
+}
